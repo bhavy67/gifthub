@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gifthub/static/css/main.5fa2ab7a.chunk.css",
+    "main.js": "/gifthub/static/js/main.4b0131d9.chunk.js",
+    "main.js.map": "/gifthub/static/js/main.4b0131d9.chunk.js.map",
+    "runtime-main.js": "/gifthub/static/js/runtime-main.4b628dd3.js",
+    "runtime-main.js.map": "/gifthub/static/js/runtime-main.4b628dd3.js.map",
+    "static/css/2.d33cd928.chunk.css": "/gifthub/static/css/2.d33cd928.chunk.css",
+    "static/js/2.f7cb4d7c.chunk.js": "/gifthub/static/js/2.f7cb4d7c.chunk.js",
+    "static/js/2.f7cb4d7c.chunk.js.map": "/gifthub/static/js/2.f7cb4d7c.chunk.js.map",
+    "static/js/3.260b0d50.chunk.js": "/gifthub/static/js/3.260b0d50.chunk.js",
+    "static/js/3.260b0d50.chunk.js.map": "/gifthub/static/js/3.260b0d50.chunk.js.map",
+    "index.html": "/gifthub/index.html",
+    "static/css/2.d33cd928.chunk.css.map": "/gifthub/static/css/2.d33cd928.chunk.css.map",
+    "static/css/main.5fa2ab7a.chunk.css.map": "/gifthub/static/css/main.5fa2ab7a.chunk.css.map",
+    "static/js/2.f7cb4d7c.chunk.js.LICENSE.txt": "/gifthub/static/js/2.f7cb4d7c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/gifthub/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b628dd3.js",
+    "static/css/2.d33cd928.chunk.css",
+    "static/js/2.f7cb4d7c.chunk.js",
+    "static/css/main.5fa2ab7a.chunk.css",
+    "static/js/main.4b0131d9.chunk.js"
+  ]
+}
